@@ -278,6 +278,8 @@ obj/
 /wwwroot/node_modules
 
 ### VisualStudioCode ###
+.config
+.config/*
 .vscode
 .vscode/*
 !.vscode/settings.json
